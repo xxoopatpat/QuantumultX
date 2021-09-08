@@ -33,6 +33,8 @@ HOST-SUFFIX,adsenseformobileapps.com,Google
 HOST-SUFFIX,advertisercommunity.com,Google
 HOST-SUFFIX,advertiserscommunity.com,Google
 HOST-SUFFIX,adwords-community.com,Google
+USER-AGENT,YouTubeMusic*,YouTubeMusic
+USER-AGENT,com.google.ios.youtubemusic*,YouTubeMusic
 HOST-SUFFIX,adwords.com,Google
 HOST-SUFFIX,adwordsexpress.com,Google
 HOST-SUFFIX,amp.dev,Google
