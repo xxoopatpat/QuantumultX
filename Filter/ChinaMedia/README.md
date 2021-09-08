@@ -1,0 +1,12 @@
+ChinaMedia
+https://raw.githubusercontent.com/xxoopatpat/QuantumultX/main/Filter/ChinaMedia/ChinaMedia.list
+当前分流规则，已包含以下子规则：
+BiliBili
+CCTV
+Douyu
+Himalaya
+NetEaseMusic
+TencentVideo
+Youku
+iQIYI
+除非特殊需求，否则不建议重复引用。
