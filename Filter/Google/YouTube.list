@@ -1,4 +1,5 @@
-# NAME: YouTube
+# YouTube
+
 HOST,youtubei.googleapis.com,YouTube
 HOST,yt3.ggpht.com,YouTube
 HOST-SUFFIX,.youtube,YouTube
