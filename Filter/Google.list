@@ -1,4 +1,5 @@
 # NAME: Google
+HOST-KEYWORD,pa.google,Chromecast
 HOST-SUFFIX,.bo,Google
 HOST-SUFFIX,.chrome,Google
 HOST-SUFFIX,.co,Google
