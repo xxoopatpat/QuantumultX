@@ -16,3 +16,4 @@ iCloud
 
 iOS系统升级
 https://raw.githubusercontent.com/xxoopatpat/QuantumultX/main/Filter/Apple/BlockiOSUpdate.list
+除非特殊需求，否则不建议重复引用。
